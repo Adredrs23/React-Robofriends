@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, coral , yellow);
+}
+
+
+#headtitle{
+	font-family: 'Shrikhand', cursive;
+	color:cyan;
+	font-size: 60px;
+}
